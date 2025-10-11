@@ -1,5 +1,7 @@
 # GrassTool_Maya2025
 tool for scattering grass in maya2025 and do some simple wind animation...
+
+
 1.Prepare your scene:
 
 A "grass" mesh (the object to scatter)
