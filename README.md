@@ -1,4 +1,4 @@
-# GrassTool_Maya2025
+# GrassTool_Maya2024
 tool for scattering grass in maya2025 and do some simple wind animation...
 
 
